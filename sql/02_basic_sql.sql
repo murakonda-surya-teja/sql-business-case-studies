@@ -1,11 +1,9 @@
-
--- =====================================================
 -- PROJECT: SQL BUSINESS CASE STUDIES
 -- FILE: 02_basic_sql.sql
 -- AUTHOR: Murakonda Surya Teja
 -- DATABASE: SQLite
 -- TOPIC: Basic SQL and Business Analytics
--- =====================================================
+
 
 -- 1. Display all customer records
 
@@ -176,6 +174,3 @@ WHERE order_revenue > (
 ORDER BY order_revenue DESC;
 
 
--- =====================================================
--- END OF BASIC SQL BUSINESS ANALYSIS
--- =====================================================
